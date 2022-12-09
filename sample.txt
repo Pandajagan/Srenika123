@@ -1,8 +1,14 @@
-this is my fast file
+WQ":his is my fast file
 in linux
 this is git session
+<<<<<<< HEAD
 this is git session[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[Bthis is git session
 hdkjkjkhknh
 jkjklkl
 kjlkl
 iknkjll jklklklk kjjlklkl
+=======
+today is adding sum line 
+i want update in sum line 
+now i am in dev branch
+>>>>>>> dev
